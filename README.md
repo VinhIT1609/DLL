@@ -14,3 +14,5 @@ number = 1
 hWnd = Handle(parent)
 //number <> 0 : Turn On | number = 0 : Turn Off
 SetTaskbarOverlayIconV4(hWnd, number)
+Image about 
+![image](https://github.com/user-attachments/assets/46bee104-b5ea-47db-a3d6-f72fcb482059)
